@@ -1,4 +1,4 @@
-# algo_trading
+# Gramian Angular Field Visualization of Time Series
 
 Given the intrest with algorithm trading in the financial technology sector, I wanted to create a so-called "Trading-Bot" by using the novel prediction machine learning algortihms
 
